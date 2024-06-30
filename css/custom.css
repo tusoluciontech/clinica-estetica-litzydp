@@ -1,0 +1,40 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+:root {
+  --cnvs-themecolor: #d2ae3a;
+  --cnvs-themecolor-rgb: 210, 174, 58;
+}
+
+/* 
+
+------------------
+--cnvs-themecolor: #30638E;
+--cnvs-themecolor-rgb: 48, 99, 142;
+------------------
+
+------------
+--cnvs-themecolor: #003D5B;
+--cnvs-themecolor-rgb: 0, 61, 91;
+------------
+
+------------
+--cnvs-themecolor: #3A506B;
+--cnvs-themecolor-rgb: 58, 80, 107;
+------------
+
+------------
+--cnvs-themecolor: #585191;
+--cnvs-themecolor-rgb: 88, 81, 145;
+------------
+
+------------
+--cnvs-themecolor: #fea808;
+--cnvs-themecolor-rgba: 254,168,8,255;
+------------
+
+*/
